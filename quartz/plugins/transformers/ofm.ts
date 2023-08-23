@@ -227,7 +227,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                 } else if ([".pdf"].includes(ext)) {
                   return {
                     type: "html",
-                    value: `<iframe src="${url}"></iframe>`,
+                    value: `
+                    <dev class="pdf_wrapper"> <iframe src="${url}"></iframe> </dev>
+                    `,
                   }
                 } else if (ext === "") {
                   // TODO: note embed

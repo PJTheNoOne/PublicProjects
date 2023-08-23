@@ -3,13 +3,11 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Public Projects",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: null,
+    baseUrl: "publicprojects.pjtheno.one",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
@@ -29,14 +27,14 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#262626",
+          lightgray: "#333333",
+          gray: "#656465",
+          darkgray: "#C7C6C8",
+          dark: "#F8F7F9",
+          secondary: "#CA3CFF",
+          tertiary: "#5DB7DE",
+          highlight: "rgba(125, 91, 166, 0.15)",
         },
       },
     },

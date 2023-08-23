@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/atom" version="2.0">
+    <channel>
+      <title>Public Projects</title>
+      <link>https://publicprojects.pjtheno.one</link>
+      <description>Recent content on Public Projects</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <atom:link href="https://publicprojects.pjtheno.one/index.xml" rel="self" type="application/rss+xml"/>
+    </channel>
+    <items>
+    <title>Welcome to Paul’s Corner of the Internet</title>
+    <link>https://publicprojects.pjtheno.one/</link>
+    <guid>https://publicprojects.pjtheno.one/</guid>
+    <description>Links § AboutMe Resumes .</description>
+    <pubDate>Thu, 24 Aug 2023 19:45:54 GMT</pubDate>
+  </items><items>
+    <title>AboutMe</title>
+    <link>https://publicprojects.pjtheno.one/AboutMe/AboutMe</link>
+    <guid>https://publicprojects.pjtheno.one/AboutMe/AboutMe</guid>
+    <description>About § Hello there! I’m a resourceful engineer with diverse skills in both mechanical and computer engineering. Thanks to my major in Engineering Physics and a minor in Computer Science, I’ve been able to delve into multiple aspects of engineering.</description>
+    <pubDate>Thu, 24 Aug 2023 19:46:39 GMT</pubDate>
+  </items><items>
+    <title>Resumes</title>
+    <link>https://publicprojects.pjtheno.one/AboutMe/Resumes</link>
+    <guid>https://publicprojects.pjtheno.one/AboutMe/Resumes</guid>
+    <description>Mechanical Focused Resume § Computer Sci/Software Engineering Resume § .</description>
+    <pubDate>Thu, 24 Aug 2023 20:38:39 GMT</pubDate>
+  </items>
+  </rss>
