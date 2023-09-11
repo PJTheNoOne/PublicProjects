@@ -4,3 +4,32 @@
     height: 107vh;
     overflow: hidden;
   }
+
+  .center-image-container {
+    text-align: center;
+    overflow: hidden;
+    height: 35vh;  /* Adjust this to your desired height */
+    position: relative;
+  }
+  
+  .center-image-link {
+    text-decoration: none;
+  }
+  
+  .center-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .center-image-caption {
+    // display: block;
+    position: relative;
+    background-color: var(--light);
+    color: var(--dark);
+    top: 32vh;
+  }

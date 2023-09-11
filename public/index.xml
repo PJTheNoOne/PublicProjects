@@ -1,28 +1,46 @@
 <rss xmlns:atom="http://www.w3.org/2005/atom" version="2.0">
     <channel>
-      <title>Public Projects</title>
-      <link>https://publicprojects.pjtheno.one</link>
-      <description>Recent content on Public Projects</description>
+      <title>Paul Jacobson</title>
+      <link>https://pauljacobson.pjtheno.one</link>
+      <description>Recent content on Paul Jacobson</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <atom:link href="https://publicprojects.pjtheno.one/index.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://pauljacobson.pjtheno.one/index.xml" rel="self" type="application/rss+xml"/>
     </channel>
     <items>
-    <title>Welcome to Paul’s Corner of the Internet</title>
-    <link>https://publicprojects.pjtheno.one/</link>
-    <guid>https://publicprojects.pjtheno.one/</guid>
-    <description>Links § AboutMe Resumes .</description>
-    <pubDate>Thu, 24 Aug 2023 19:45:54 GMT</pubDate>
-  </items><items>
-    <title>AboutMe</title>
-    <link>https://publicprojects.pjtheno.one/AboutMe/AboutMe</link>
-    <guid>https://publicprojects.pjtheno.one/AboutMe/AboutMe</guid>
-    <description>About § Hello there! I’m a resourceful engineer with diverse skills in both mechanical and computer engineering. Thanks to my major in Engineering Physics and a minor in Computer Science, I’ve been able to delve into multiple aspects of engineering.</description>
-    <pubDate>Thu, 24 Aug 2023 19:46:39 GMT</pubDate>
+    <title>Hi, I'm Paul Jacobson, an Engineer from Wisconsin</title>
+    <link>https://pauljacobson.pjtheno.one/</link>
+    <guid>https://pauljacobson.pjtheno.one/</guid>
+    <description> About Me § Hello there! I’m a resourceful engineer with diverse mechanical and computer engineering skills. Thanks to my Engineering Physics major and Computer Science minor, I’ve delved into multiple aspects of engineering.</description>
+    <pubDate>Mon, 11 Sep 2023 02:14:06 GMT</pubDate>
   </items><items>
     <title>Resumes</title>
-    <link>https://publicprojects.pjtheno.one/AboutMe/Resumes</link>
-    <guid>https://publicprojects.pjtheno.one/AboutMe/Resumes</guid>
+    <link>https://pauljacobson.pjtheno.one/AboutMe/Resumes</link>
+    <guid>https://pauljacobson.pjtheno.one/AboutMe/Resumes</guid>
     <description>Mechanical Focused Resume § Computer Sci/Software Engineering Resume § .</description>
-    <pubDate>Thu, 24 Aug 2023 20:38:39 GMT</pubDate>
+    <pubDate>Thu, 31 Aug 2023 00:13:27 GMT</pubDate>
+  </items><items>
+    <title>Portfolio</title>
+    <link>https://pauljacobson.pjtheno.one/Projects/Portfolio</link>
+    <guid>https://pauljacobson.pjtheno.one/Projects/Portfolio</guid>
+    <description>NozeWipe § 3D printer nozzle wiper for Voron printers. Scribble~Starter § Senor design project a per-writing skill tool. Sail Compass § Senor design project a per-writing skill tool.</description>
+    <pubDate>Mon, 11 Sep 2023 02:10:11 GMT</pubDate>
+  </items><items>
+    <title>NozeWipe</title>
+    <link>https://pauljacobson.pjtheno.one/Projects/NozeWipe/NozeWipe</link>
+    <guid>https://pauljacobson.pjtheno.one/Projects/NozeWipe/NozeWipe</guid>
+    <description> About § A Voron 3D printer mod for cleaning the nozzle of the printer. It was designed to be simple and adjustable, providing a suitable nozzle cleaner.</description>
+    <pubDate>Sat, 09 Sep 2023 03:09:36 GMT</pubDate>
+  </items><items>
+    <title>Sail Compass</title>
+    <link>https://pauljacobson.pjtheno.one/Projects/SailCompass/Sail-Compass</link>
+    <guid>https://pauljacobson.pjtheno.one/Projects/SailCompass/Sail-Compass</guid>
+    <description>About § This project aims to make a DIY sail compass for racing. This compass should have distance to line, timing, logging, and compass features. Motivation § Why would someone not interested in sailing make a racing compass? It is because of two reasons.</description>
+    <pubDate>Sat, 09 Sep 2023 03:21:23 GMT</pubDate>
+  </items><items>
+    <title>Scribble~Starter</title>
+    <link>https://pauljacobson.pjtheno.one/Projects/ScribbleStarter/Scribble~Starter</link>
+    <guid>https://pauljacobson.pjtheno.one/Projects/ScribbleStarter/Scribble~Starter</guid>
+    <description>About § The Scribble~Starter is a pen that lights up and plays sound when writing or drawing on a planner surface. The motivation is to make a tool for promoting writing skills in young kids with or without developmental delays.</description>
+    <pubDate>Mon, 11 Sep 2023 03:51:43 GMT</pubDate>
   </items>
   </rss>

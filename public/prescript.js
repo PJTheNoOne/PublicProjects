@@ -1,5 +1,5 @@
 (function () {// quartz/components/scripts/quartz/components/scripts/darkmode.inline.ts
-var userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+var userPref = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 var currentTheme = localStorage.getItem("theme") ?? userPref;
 document.documentElement.setAttribute("saved-theme", currentTheme);
 document.addEventListener("nav", () => {

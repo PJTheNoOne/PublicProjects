@@ -3,11 +3,11 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Public Projects",
+    pageTitle: "Paul Jacobson",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "publicprojects.pjtheno.one",
+    baseUrl: "pauljacobson.pjtheno.one",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
@@ -19,22 +19,22 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          gray: "#0a0113",
+          darkgray: "#0a0113",
+          dark: "#0a0113",
+          secondary: "#640eaa",
+          tertiary: "#b28bda",
+          highlight: "rgba(178, 139, 218, 0.25)",
         },
         darkMode: {
-          light: "#262626",
-          lightgray: "#333333",
-          gray: "#656465",
-          darkgray: "#C7C6C8",
-          dark: "#F8F7F9",
-          secondary: "#CA3CFF",
-          tertiary: "#5DB7DE",
-          highlight: "rgba(125, 91, 166, 0.15)",
+          light: "#0f100f", //background
+          lightgray: "#333333", // background accent
+          gray: "#f5f4f5", //sub text
+          darkgray: "#f5f4f5", // paragraph text
+          dark: "#f5f4f5", // header text
+          secondary: "#b28bda", // accent
+          tertiary: "#640eaa", // hover text
+          highlight: "rgba(178, 139, 218, 0.25)",
         },
       },
     },
