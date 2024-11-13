@@ -13,6 +13,3 @@ date modified: Friday, September 8th 2023, 10:10:58 pm
 
 # [[Scribble~Starter]]
 <div class="center-image-container"> <a href="/Projects/ScribbleStarter/Scribble~Starter"> <img src="EP_UWP_ScribbleStarter_Final_Prototype.png" class="center-image"/> </a> <span class="center-image-caption"> Senor design project a per-writing skill tool. </span> </div>
-
-# [[Sail Compass]]
-<div class="center-image-container"> <a href="/Projects/SailCompass/Sail Compass"> <img src="IMG_2905.jpeg" class="center-image"/> </a> <span class="center-image-caption"> Senor design project a per-writing skill tool. </span> </div>
