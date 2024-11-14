@@ -1,46 +1,58 @@
 <rss xmlns:atom="http://www.w3.org/2005/atom" version="2.0">
     <channel>
       <title>Paul Jacobson</title>
-      <link>https://pauljacobson.pjtheno.one</link>
+      <link>https://www.paulj.engineer</link>
       <description>Recent content on Paul Jacobson</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <atom:link href="https://pauljacobson.pjtheno.one/index.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.paulj.engineer/index.xml" rel="self" type="application/rss+xml"/>
     </channel>
     <items>
-    <title>Hi, I'm Paul Jacobson, an Engineer from Wisconsin</title>
-    <link>https://pauljacobson.pjtheno.one/</link>
-    <guid>https://pauljacobson.pjtheno.one/</guid>
-    <description> About Me § Hello there! I’m a resourceful engineer with diverse mechanical and computer engineering skills. Thanks to my Engineering Physics major and Computer Science minor, I’ve delved into multiple aspects of engineering.</description>
-    <pubDate>Mon, 11 Sep 2023 02:14:06 GMT</pubDate>
+    <title>Hi, I'm Paul Jacobson an Engineer</title>
+    <link>https://www.paulj.engineer/</link>
+    <guid>https://www.paulj.engineer/</guid>
+    <description>Hello § If you are reading this you probably have scanned my business card. Here are some useful links. About Me § LinkedIn § Resume § Github § Portfolio § Contact Me § Thanks § Thanks for checking out my site! I hope to hear from you soon.</description>
+    <pubDate>Thu, 14 Nov 2024 15:51:14 GMT</pubDate>
+  </items><items>
+    <title>About Me</title>
+    <link>https://www.paulj.engineer/AboutMe/About-Me</link>
+    <guid>https://www.paulj.engineer/AboutMe/About-Me</guid>
+    <description>Hello! I’m a resourceful engineer with a solid foundation in both mechanical and computer engineering, shaped by my Engineering Physics major and Computer Science minor.</description>
+    <pubDate>Thu, 14 Nov 2024 14:48:22 GMT</pubDate>
   </items><items>
     <title>Resumes</title>
-    <link>https://pauljacobson.pjtheno.one/AboutMe/Resumes</link>
-    <guid>https://pauljacobson.pjtheno.one/AboutMe/Resumes</guid>
-    <description>Mechanical Focused Resume § Computer Sci/Software Engineering Resume § .</description>
-    <pubDate>Thu, 31 Aug 2023 00:13:27 GMT</pubDate>
+    <link>https://www.paulj.engineer/AboutMe/Resumes</link>
+    <guid>https://www.paulj.engineer/AboutMe/Resumes</guid>
+    <description>Resume § Letter of Recommendation § .</description>
+    <pubDate>Thu, 14 Nov 2024 15:48:35 GMT</pubDate>
   </items><items>
     <title>Portfolio</title>
-    <link>https://pauljacobson.pjtheno.one/Projects/Portfolio</link>
-    <guid>https://pauljacobson.pjtheno.one/Projects/Portfolio</guid>
-    <description>NozeWipe § 3D printer nozzle wiper for Voron printers. Scribble~Starter § Senor design project a per-writing skill tool. Sail Compass § Senor design project a per-writing skill tool.</description>
-    <pubDate>Mon, 11 Sep 2023 02:10:11 GMT</pubDate>
+    <link>https://www.paulj.engineer/Projects/Portfolio</link>
+    <guid>https://www.paulj.engineer/Projects/Portfolio</guid>
+    <description>Additive Manufacturing § FPV Drones § NozeWipe § 3D printer nozzle wiper for Voron printers. Scribble~Starter § Senor design project a per-writing skill tool.</description>
+    <pubDate>Thu, 14 Nov 2024 14:13:01 GMT</pubDate>
   </items><items>
-    <title>NozeWipe</title>
-    <link>https://pauljacobson.pjtheno.one/Projects/NozeWipe/NozeWipe</link>
-    <guid>https://pauljacobson.pjtheno.one/Projects/NozeWipe/NozeWipe</guid>
-    <description> About § A Voron 3D printer mod for cleaning the nozzle of the printer. It was designed to be simple and adjustable, providing a suitable nozzle cleaner.</description>
-    <pubDate>Sat, 09 Sep 2023 03:09:36 GMT</pubDate>
+    <title>Additive Manufacturing</title>
+    <link>https://www.paulj.engineer/Projects/Additive-Manufacturing/Additive-Manufacturing</link>
+    <guid>https://www.paulj.engineer/Projects/Additive-Manufacturing/Additive-Manufacturing</guid>
+    <description> Additive Manufacturing § I’ve spent the past 8 years working with 3D printing, starting with a Sidewinder X1 and eventually moving on and building a Voron 2.</description>
+    <pubDate>Thu, 14 Nov 2024 14:36:53 GMT</pubDate>
   </items><items>
-    <title>Sail Compass</title>
-    <link>https://pauljacobson.pjtheno.one/Projects/SailCompass/Sail-Compass</link>
-    <guid>https://pauljacobson.pjtheno.one/Projects/SailCompass/Sail-Compass</guid>
-    <description>About § This project aims to make a DIY sail compass for racing. This compass should have distance to line, timing, logging, and compass features. Motivation § Why would someone not interested in sailing make a racing compass? It is because of two reasons.</description>
-    <pubDate>Sat, 09 Sep 2023 03:21:23 GMT</pubDate>
+    <title>FPV Drones</title>
+    <link>https://www.paulj.engineer/Projects/FPV-Drones/FPV-Drones</link>
+    <guid>https://www.paulj.engineer/Projects/FPV-Drones/FPV-Drones</guid>
+    <description> An Quick Explanation of FPV Drones. § An FPV (First Person View) drone consists of several key components including the carbon fiber frame provides the structure.</description>
+    <pubDate>Thu, 14 Nov 2024 14:37:03 GMT</pubDate>
   </items><items>
     <title>Scribble~Starter</title>
-    <link>https://pauljacobson.pjtheno.one/Projects/ScribbleStarter/Scribble~Starter</link>
-    <guid>https://pauljacobson.pjtheno.one/Projects/ScribbleStarter/Scribble~Starter</guid>
+    <link>https://www.paulj.engineer/Projects/ScribbleStarter/Scribble~Starter</link>
+    <guid>https://www.paulj.engineer/Projects/ScribbleStarter/Scribble~Starter</guid>
     <description>About § The Scribble~Starter is a pen that lights up and plays sound when writing or drawing on a planner surface. The motivation is to make a tool for promoting writing skills in young kids with or without developmental delays.</description>
-    <pubDate>Mon, 11 Sep 2023 03:51:43 GMT</pubDate>
+    <pubDate>Thu, 14 Nov 2024 13:24:24 GMT</pubDate>
+  </items><items>
+    <title>NozeWipe</title>
+    <link>https://www.paulj.engineer/Projects/NozeWipe/NozeWipe</link>
+    <guid>https://www.paulj.engineer/Projects/NozeWipe/NozeWipe</guid>
+    <description> About § A Voron 3D printer mod for cleaning the nozzle of the printer. It was designed to be simple and adjustable, providing a suitable nozzle cleaner.</description>
+    <pubDate>Thu, 14 Nov 2024 14:37:20 GMT</pubDate>
   </items>
   </rss>

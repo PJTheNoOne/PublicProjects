@@ -1,19 +1,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://pauljacobson.pjtheno.one/</loc>
-    <lastmod>2023-09-11T02:14:06.592Z</lastmod>
+    <loc>https://www.paulj.engineer/</loc>
+    <lastmod>2024-11-14T15:51:14.982Z</lastmod>
   </url><url>
-    <loc>https://pauljacobson.pjtheno.one/AboutMe/Resumes</loc>
-    <lastmod>2023-08-31T00:13:27.185Z</lastmod>
+    <loc>https://www.paulj.engineer/AboutMe/About-Me</loc>
+    <lastmod>2024-11-14T14:48:22.949Z</lastmod>
   </url><url>
-    <loc>https://pauljacobson.pjtheno.one/Projects/Portfolio</loc>
-    <lastmod>2023-09-11T02:10:11.179Z</lastmod>
+    <loc>https://www.paulj.engineer/AboutMe/Resumes</loc>
+    <lastmod>2024-11-14T15:48:35.215Z</lastmod>
   </url><url>
-    <loc>https://pauljacobson.pjtheno.one/Projects/NozeWipe/NozeWipe</loc>
-    <lastmod>2023-09-09T03:09:36.817Z</lastmod>
+    <loc>https://www.paulj.engineer/Projects/Portfolio</loc>
+    <lastmod>2024-11-14T14:13:01.338Z</lastmod>
   </url><url>
-    <loc>https://pauljacobson.pjtheno.one/Projects/SailCompass/Sail-Compass</loc>
-    <lastmod>2023-09-09T03:21:23.050Z</lastmod>
+    <loc>https://www.paulj.engineer/Projects/Additive-Manufacturing/Additive-Manufacturing</loc>
+    <lastmod>2024-11-14T14:36:53.215Z</lastmod>
   </url><url>
-    <loc>https://pauljacobson.pjtheno.one/Projects/ScribbleStarter/Scribble~Starter</loc>
-    <lastmod>2023-09-11T03:51:43.407Z</lastmod>
+    <loc>https://www.paulj.engineer/Projects/FPV-Drones/FPV-Drones</loc>
+    <lastmod>2024-11-14T14:37:03.629Z</lastmod>
+  </url><url>
+    <loc>https://www.paulj.engineer/Projects/ScribbleStarter/Scribble~Starter</loc>
+    <lastmod>2024-11-14T13:24:24.280Z</lastmod>
+  </url><url>
+    <loc>https://www.paulj.engineer/Projects/NozeWipe/NozeWipe</loc>
+    <lastmod>2024-11-14T14:37:20.571Z</lastmod>
   </url></urlset>

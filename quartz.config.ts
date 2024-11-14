@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "pauljacobson.pjtheno.one",
+    baseUrl: "www.paulj.engineer",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {

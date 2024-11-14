@@ -1,11 +1,10 @@
 ---
 grammerly: true
-aliases: []
+aliases: 
 tags:
   - Project
 publish: true
 date created: Wednesday, August 30th 2023, 7:16:51 pm
-date modified: Friday, September 8th 2023, 9:56:50 pm
 ---
 ![[InstalledNozeWipe.png]]
 ## About
@@ -13,6 +12,9 @@ date modified: Friday, September 8th 2023, 9:56:50 pm
 A Voron 3D printer mod for cleaning the nozzle of the printer. It was designed to be simple and adjustable, providing a suitable nozzle cleaner. It used silicone wipes and a block for the [Blackbox 3D Printer](https://layershift.xyz/blackbox3dprinter/). 
 
 You can learn more by looking at it on my [Github project](https://github.com/PJTheNoOne/NozeWipe).
+## V2 Coming soon
+
+I have been using a version 2 for several months without issue. The wipe and block now travel with the gantry behind the bed. This allows for the hot end to be parked on the block after the print is done. This uses lots of the same scripts allowing for easy upgrade. The expected release date is around Jan 2025.
 ## Motivation
 
 I built my Voron with the [Voron-Tap](https://github.com/VoronDesign/Voron-Tap), [Nevermore](https://github.com/nevermore3d/Nevermore_Micro), and the [Kinematic Bed](https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed) mods, instead of upgrading it over time. I noticed that z homing of the printer could be affected by any filament on the printer's nozzle. I decided to make my own Voron mod using existing silicon wipes for a different printer to solve this.
